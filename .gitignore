@@ -1,0 +1,8 @@
+.idea
+out
+_test
+PrivateConfig.java
+*.zip
+*.iml
+META-INF
+.DS_Store
