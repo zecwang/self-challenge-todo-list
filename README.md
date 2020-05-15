@@ -1,12 +1,4 @@
----
-title: Self-Challenge Todo List
-date: 2020-05-14 20:09:00
-categories:
-- Projects
-tags:
-- Projects
-- Java GUI
----
+# Self-Challenge Todo List
 
 ## Introduction
 
